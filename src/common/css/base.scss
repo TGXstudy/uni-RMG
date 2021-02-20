@@ -1,0 +1,121 @@
+:root {
+  --theme-color: #D51518;
+  --theme-color-f8f8f8:#F8F8F8;
+  --theme-color-fff:fff;
+  --theme-color-yellow:#FFB30D;
+}
+
+/*字体大小-------------------------*/
+.fn-sz-22{
+	font-size: 22upx;
+}
+.fn-sz-24{
+	font-size: 24upx;
+}
+.fn-sz-28{
+	font-size: 28upx;
+}
+.fn-sz-30{
+	font-size: 30upx;
+}
+.fn-sz-32{
+	font-size: 32upx;
+}
+.fn-sz-48{
+	font-size: 48upx;
+}
+.fn-sz-14{
+	font-size: 14px !important;
+}
+/*字体大小--------------------------------------------*/
+/*字体颜色-------------------------------------------*/
+.fn-cl-theme{
+	color: var(--theme-color);
+}
+.fn-cl-333{ 
+	color: #333;
+}
+.fn-cl-fff{
+	color: #fff;
+}
+.fn_cl_333333{
+color: #333333 !important;
+}
+.fn_cl_999{
+
+color: #999999 !important;
+}
+/*字体颜色-------------------------------------------*/
+/* 图片 图标 尺寸------------------------------------------ */
+.image-sz-32{
+	width: 32upx;
+	height: 32upx;
+}
+
+.image-sz-120{
+	width: 120upx;
+	height: 120upx;
+}
+/* 图片 图标 尺寸------------------------------------------ */
+/* 边距--------------------------------- */
+.margin-right-20{
+	margin-right: 20upx;
+}
+.margin-right-40{
+	margin-right: 40upx;
+}
+.margin-right-50{
+	margin-right: 50upx;
+}
+.margin-right-55{
+	margin-right: 55upx;
+}
+.margin-bottom-20{
+	margin-top: 20px;
+}
+.margin-bottom-20{
+	margin-bottom: 20upx;
+}
+.margin_left_20{
+	margin-left: 20px;
+}
+.margin_left_40{
+	margin-left: 40px;
+}
+.margin_left_50{
+	margin-left: 50px;
+}
+/* 边距--------------------------------- */
+//加粗字体
+.fn-bold{
+	font-weight: bold;
+}
+//单行文本 省略号
+.one-line-txt {
+	overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+//两行文本 省略号
+.two-line-txt{
+	display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: normal;
+    word-break: break-all;
+}
+
+.font_auth_size{
+	font-size: 14px;
+	font-family: PingFangSC-Regular, PingFang SC;
+	font-weight: 400;
+	color: #999999;
+}
+.base_center{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}

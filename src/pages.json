@@ -1,0 +1,703 @@
+{
+	"pages": [
+
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "首页",
+				"navigationStyle": "custom"
+			}
+		},
+
+		{
+			"path": "pages/index/isgzh"
+		},
+
+		{
+			"path": "pages/train/train",
+			"style": {
+				"navigationBarTitleText": "培训",
+				"enablePullDownRefresh": true,
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/train/apply_train",
+			"style": {
+				"navigationBarTitleText": "培训机构入驻",
+				"enablePullDownRefresh": true,
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/train/train_agree",
+			"style": {
+				"navigationBarTitleText": "培训机构入驻",
+				"enablePullDownRefresh": true,
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/train/train_audit",
+			"style": {
+				"navigationBarTitleText": "培训机构入驻",
+				"enablePullDownRefresh": true,
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/train/train_refuse",
+			"style": {
+				"navigationBarTitleText": "培训机构入驻",
+				"enablePullDownRefresh": true,
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/mine",
+			"style": {
+				"navigationBarTitleText": "我的",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/mine/blank",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/mine/user_auth/user_auth",
+			"style": {
+				"navigationBarTitleText": "用户认证",
+				"enablePullDownRefresh": true,
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/user_auth/company_auth",
+			"style": {
+				"navigationBarTitleText": "企业认证",
+				"enablePullDownRefresh": true,
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/user_auth/company_agree",
+			"style": {
+				"navigationBarTitleText": "企业认证",
+				"enablePullDownRefresh": true,
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/user_auth/person_auth",
+			"style": {
+				"navigationBarTitleText": "个人认证",
+				"enablePullDownRefresh": true,
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/user_auth/person_agree",
+			"style": {
+				"navigationBarTitleText": "个人认证",
+				"enablePullDownRefresh": true,
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/user_auth/audit",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": true,
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/user_auth/audit_refuse",
+			"style": {
+				"navigationBarTitleText": "用户认证",
+				"enablePullDownRefresh": true,
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/vip/vip",
+			"style": {
+				"navigationBarTitleText": "我的会员",
+				"enablePullDownRefresh": true,
+				"navigationBarBackgroundColor": "#FDE4AF",
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/vip/buy_vip",
+			"style": {
+				"navigationBarTitleText": "我的会员",
+				"enablePullDownRefresh": true,
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/vip/vip_aggrement",
+			"style": {
+				"navigationBarTitleText": "会员入驻协议",
+				"enablePullDownRefresh": true,
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/friends/myfriends",
+			"style": {
+				"navigationBarTitleText": "我的好友",
+				"enablePullDownRefresh": true,
+				"navigationBarBackgroundColor": "#0067DF",
+				"navigationBarTextStyle": "white",
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/friends/friends_detail",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": true,
+				"navigationBarBackgroundColor": "#0067DF",
+				"navigationBarTextStyle": "white",
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/agency/agency_award",
+			"style": {
+				"navigationBarTitleText": "代理奖励",
+				"enablePullDownRefresh": true,
+				"navigationBarBackgroundColor": "#0067DF",
+				"navigationBarTextStyle": "white",
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/agency/apply_agency",
+			"style": {
+				"navigationBarTitleText": "申请代理",
+				"enablePullDownRefresh": true,
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/agency/agency_refuse",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": true,
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/wallet/wallet",
+			"style": {
+				"navigationBarTitleText": "我的钱包",
+				"enablePullDownRefresh": true,
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/wallet/recharge",
+			"style": {
+				"navigationBarTitleText": "充值",
+				"enablePullDownRefresh": true,
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/wallet/deposit",
+			"style": {
+				"navigationBarTitleText": "提现",
+				"enablePullDownRefresh": true,
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/connect/connect",
+			"style": {
+				"navigationBarTitleText": "联系记录",
+				"enablePullDownRefresh": true,
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/code/code",
+			"style": {
+				"navigationBarTitleText": "推荐码",
+				"enablePullDownRefresh": true,
+				"navigationBarBackgroundColor": "#0067DF",
+				"navigationBarTextStyle": "white",
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/message/message",
+			"style": {
+				"navigationBarTitleText": "系统消息",
+				"enablePullDownRefresh": true,
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/insurance/insurance",
+			"style": {
+				"navigationBarTitleText": "购买保险",
+				"enablePullDownRefresh": true,
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/set/set",
+			"style": {
+				"navigationBarTitleText": "设置",
+				"enablePullDownRefresh": true,
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/set/set_info",
+			"style": {
+				"navigationBarTitleText": "个人资料",
+				"enablePullDownRefresh": true,
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/set/checkphone1",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": true,
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/set/checkphone2",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": true,
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/login/bindTel",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": true,
+				"navigationBarBackgroundColor": "#FFFFFF",
+				"navigationBarTextStyle": "white",
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/set/check_pay",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": true,
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/set/check_login",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": true,
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/customer/customer",
+			"style": {
+				"navigationBarTitleText": "客服中心",
+				"enablePullDownRefresh": true,
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/customer/question",
+			"style": {
+				"navigationBarTitleText": "常见问题",
+				"enablePullDownRefresh": true,
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/customer/customer_detail",
+			"style": {
+				"navigationBarTitleText": "常见问题详情",
+				"enablePullDownRefresh": true,
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/customer/suggest",
+			"style": {
+				"navigationBarTitleText": "意见建议",
+				"enablePullDownRefresh": true,
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/customer/service",
+			"style": {
+				"navigationBarTitleText": "在线客服",
+				"enablePullDownRefresh": true,
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/customer/about",
+			"style": {
+				"navigationBarTitleText": "关于我们",
+				"enablePullDownRefresh": true,
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": true,
+				"navigationBarBackgroundColor": "#FFFFFF",
+				"navigationBarTextStyle": "white",
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/login/gzh_login",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": true,
+				"navigationBarBackgroundColor": "#FFFFFF",
+				"navigationBarTextStyle": "white",
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/login/reg",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": true,
+				"navigationBarBackgroundColor": "#FFFFFF",
+				"navigationBarTextStyle": "white",
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/login/user_agreement",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": true,
+				"navigationBarBackgroundColor": "#FFFFFF",
+				"navigationBarTextStyle": "white",
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/login/forget",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": true,
+				"navigationBarBackgroundColor": "#FFFFFF",
+				"navigationBarTextStyle": "white",
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/index/adDetail",
+			"style": {
+				"navigationBarTitleText": "广告详情"
+			}
+		},
+		{
+			"path": "pages/index/infoService",
+			"style": {
+				"navigationBarTitleText": "信息服务协议"
+			}
+		},
+		{
+			"path": "pages/issue/issueDetail",
+			"style": {
+				"navigationBarTitleText": "信息详情"
+			}
+		},
+
+		{
+			"path": "pages/issue/addIssue",
+			"style": {
+				"navigationBarTitleText": "发布找活"
+			}
+		},
+		{
+			"path": "pages/report/report",
+			"style": {
+				"navigationBarTitleText": "举报"
+			}
+		},
+		{
+			"path": "pages/company/companyInfo",
+			"style": {
+				"navigationBarTitleText": "企业详情"
+			}
+		},
+		{
+			"path": "pages/issue/issue",
+			"style": {
+				"navigationBarTitleText": "我的发布",
+				"enablePullDownRefresh": true,
+				"h5": {
+					"pullToRefresh": {
+						"color": "#D51518"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/train/trainSchoolDetail",
+			"style": {
+				"navigationBarTitleText": "培训机构详情"
+			}
+		},
+		{
+			"path": "pages/train/classDetail",
+			"style": {
+				"navigationBarTitleText": "课程详情"
+			}
+		},
+		{
+			"path": "pages/selectPosition/selectPosition",
+			"style": {
+				"navigationBarTitleText": "选择职位"
+			}
+		},
+		{
+			"path": "pages/train/courseRegister",
+			"style": {
+				"navigationBarTitleText": "报名支付"
+			}
+		}
+	],
+	"tabBar": {
+		"color": "#999999",
+		"selectedColor": "#0A5AD4",
+		"backgroundColor": "#ffffff",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabbar/home_h.png",
+				"selectedIconPath": "static/tabbar/home.png",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/issue/issue",
+				"iconPath": "static/tabbar/nav_h.png",
+				"selectedIconPath": "static/tabbar/nav.png",
+				"text": "发布"
+			},
+			{
+				"pagePath": "pages/train/train",
+				"iconPath": "static/tabbar/list_h.png",
+				"selectedIconPath": "static/tabbar/list.png",
+				"text": "培训"
+			},
+			{
+				"pagePath": "pages/mine/mine",
+				"iconPath": "static/tabbar/mine_h.png",
+				"selectedIconPath": "static/tabbar/mine.png",
+				"text": "我的"
+			}
+		]
+	},
+	"globalStyle": {
+		// // #ifdef H5
+		// "navigationStyle": "custom",
+		// // #endif
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#ffffff",
+		"backgroundColor": "#ffffff"
+	}
+}
